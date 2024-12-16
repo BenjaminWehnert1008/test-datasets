@@ -1,0 +1,2 @@
+sample,type,replicate,file1,file2
+a_1,quality,1,https://github.com/BenjaminWehnert1008/test-datasets/blob/dmsqc/dmsqc/quality/small_subset_R1.fastq,https://github.com/BenjaminWehnert1008/test-datasets/blob/dmsqc/dmsqc/quality/small_subset_R2.fastq
