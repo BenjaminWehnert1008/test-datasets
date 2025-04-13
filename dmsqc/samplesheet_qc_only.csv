@@ -1,3 +1,2 @@
 sample,type,replicate,file1,file2
-a_1,quality,1,https://raw.githubusercontent.com/BenjaminWehnert1008/test-datasets/dmsqc/dmsqc/quality/small_subset_R1.fastq,https://raw.githubusercontent.com/BenjaminWehnert1008/test-datasets/dmsqc/dmsqc/quality/small_subset_R2.fastq
-b_test,quality,1,https://raw.githubusercontent.com/BenjaminWehnert1008/test-datasets/dmsqc/dmsqc/quality/small_subset_R1.fastq,
+a_1,quality,1,https://raw.githubusercontent.com/BenjaminWehnert1008/test-datasets/dmsqc/dmsqc/pMS190_GID1A_SUNi_S2_1_R1_50k.fastq,https://raw.githubusercontent.com/BenjaminWehnert1008/test-datasets/dmsqc/dmsqc/pMS190_GID1A_SUNi_S2_1_R2_50k.fastq
